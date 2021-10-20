@@ -6,7 +6,7 @@ public class DateTimeControllerTest {
     public void test_DateTime_shouldBeCorrect()
     {
         // Arrange
-       // DateTimeController controller = new DateTimeController();
+        DateTimeController controller = new DateTimeController();
 
         // Act
 
